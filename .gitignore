@@ -4,3 +4,6 @@ lightning_logs/*
 tabular_mtl/*
 logs/*
 *.txt
+upload_multitab_to_hub.py
+build_and_push_multitab_configs.py
+data_readme.md
